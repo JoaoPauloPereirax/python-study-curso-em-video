@@ -10,16 +10,6 @@ O curso é dividido em três mundos principais:
 - **Mundo 2**: Estruturas de repetição (for, while), tuplas, listas, dicionários, funções, modularização.
 - **Mundo 3**: Tratamento de erros, arquivos, manipulação de strings, funções avançadas, listas compostas, dicionários compostos, tuplas compostas, orientação a objetos básica.
 
-## Projetos Desenvolvidos
-
-1. **Calculadora Simples**: Uma calculadora básica que realiza operações simples de adição, subtração, multiplicação e divisão.
-   
-   ![Calculadora](./calculadora.png)
-
-2. **Jogo da Forca**: Implementação do clássico jogo da forca, onde o jogador deve descobrir a palavra secreta antes de ser enforcado.
-
-   ![Jogo da Forca](./forca.png)
-
 ## Como Executar os Projetos
 
 Cada pasta de projeto contém um arquivo `README.md` com instruções específicas sobre como executar e utilizar o projeto correspondente.
@@ -40,4 +30,4 @@ Desenvolvido por [João Paulo Pereira](https://github.com/JoaoPauloPereirax).
 
 ---
 
-© 2024 [Seu Nome]. Licenciado sob a Licença MIT.
+© 2024 João Paulo Pereira. Licenciado sob a Licença MIT.
